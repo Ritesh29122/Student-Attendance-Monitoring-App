@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mark_Attendance">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/etSectionName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your section name"
+            android:layout_alignParentTop="true"
+            android:inputType="text"/>
+
+        <Button
+            android:id="@+id/btnAddStudent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/etSectionName"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="16dp"
+            android:text="Fetch Student" />
+
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:layout_below="@+id/btnAddStudent"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="8dp"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="0.5dp"
+            android:padding="8dp" />
+
+        <Button
+            android:id="@+id/markAttend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/listView1"
+            android:layout_centerInParent="true"
+            android:text="Mark Attendance" />
+
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "940220439775",
+    "firebase_url": "https://attendance-new-c283c-default-rtdb.firebaseio.com",
+    "project_id": "attendance-new-c283c",
+    "storage_bucket": "attendance-new-c283c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940220439775:android:c2334c3c6fd2d796819d6a",
+        "android_client_info": {
+          "package_name": "com.example.attendance_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcML8O_1kQeIWUlEDoMAbCWCPC6XKwszE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
