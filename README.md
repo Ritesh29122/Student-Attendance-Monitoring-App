@@ -8,9 +8,9 @@ Test the app frequently across various Android versions and devices to make sure
 
 ## Working App Images :
 <p float="left">
-  <img src="https://github.com/Yashraj67/Attendance-Monitoring-App-using-Bluetooth/blob/master/attendance1.jpg" width="30%" />
-  <img src="https://github.com/Yashraj67/Attendance-Monitoring-App-using-Bluetooth/blob/master/attendance2.jpg" width="30%" />
-  <img src="https://github.com/Yashraj67/Attendance-Monitoring-App-using-Bluetooth/blob/master/attendance3.jpg" width="30%" />
+  <img src="https://github.com/Yashraj67/Student-Attendance-Monitoring-App/blob/master/attendance1.jpg" width="30%" />
+  <img src="https://github.com/Yashraj67/Student-Attendance-Monitoring-App/blob/master/attendance2.jpg" width="30%" />
+  <img src="https://github.com/Yashraj67/Student-Attendance-Monitoring-App/blob/master/attendance3.jpg" width="30%" />
 </p>
 
 ## Technologies Used :
